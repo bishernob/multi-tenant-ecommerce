@@ -1,0 +1,11 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "A multi-tenant e-commerce platform using Node.js and PostgreSQL with various authentication methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
